@@ -6,7 +6,7 @@ The system can detect players and the ball, assign ball possession, classify tea
 ---
 
 ## 🔹 Features
-- **Player & Ball Detection** – YOLOv8 for real-time detection  
+- **Player & Ball Detection** – YOLO for real-time detection  
 - **Ball Possession Assignment** – nearest player to the ball is automatically identified  
 - **Team Classification** – K-Means clustering to group players by jersey color  
 - **Perspective Transformation** – convert camera view into a top-down field map  
@@ -15,7 +15,7 @@ The system can detect players and the ball, assign ball possession, classify tea
 ---
 
 ## 🔹 Tech Stack
-- **Deep Learning**: YOLOv8 (Ultralytics)  
+- **Deep Learning**: YOLO (Ultralytics)  
 - **Computer Vision**: OpenCV  
 - **Dataset Handling**: Roboflow  
 - **Machine Learning**: Scikit-learn (K-Means clustering)  
