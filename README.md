@@ -19,7 +19,10 @@ The system can detect players and the ball, assign ball possession, classify tea
 - **Computer Vision**: OpenCV  
 - **Dataset Handling**: Roboflow  
 - **Machine Learning**: Scikit-learn (K-Means clustering)  
-- **Python Libraries**: NumPy, Pandas, Supervision  
+- **Python Libraries**: NumPy, Pandas, Supervision
+
+## 🔹 Results
+Output video link - https://drive.google.com/file/d/107lHltu5fiit7O2bHEMKVhKsBXFq0c9o/view?usp=drive_link
 
 ---
 
